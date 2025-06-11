@@ -13,8 +13,8 @@ User Management System
 วิธีติดตั้งและรันโปรเจค
 
 1. Clone โปรเจค
-git clone https://github.com/Jiradech20/UserManagementSystem.git
-cd UserManagementSystem
+git clone https://github.com/Jiradech20/UserManage.git
+cd UserManage
 
 2. Backend
 
